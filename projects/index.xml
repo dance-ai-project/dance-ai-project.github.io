@@ -1,14 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on </title>
+    <title>Members on </title>
     <link>http://dance-ai-project.github.io/projects/</link>
-    <description>Recent content in Projects on </description>
+    <description>Recent content in Members on </description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sat, 18 Jul 2020 19:27:49 +0900</lastBuildDate>
     
 	<atom:link href="http://dance-ai-project.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Name</title>
+      <link>http://dance-ai-project.github.io/projects/member3/</link>
+      <pubDate>Sun, 19 Jul 2020 12:35:20 +0900</pubDate>
+      
+      <guid>http://dance-ai-project.github.io/projects/member3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Name</title>
+      <link>http://dance-ai-project.github.io/projects/member2/</link>
+      <pubDate>Sat, 18 Jul 2020 23:32:38 +0900</pubDate>
+      
+      <guid>http://dance-ai-project.github.io/projects/member2/</guid>
+      <description>Abstract???</description>
+    </item>
+    
+    <item>
+      <title>Name</title>
+      <link>http://dance-ai-project.github.io/projects/member1/</link>
+      <pubDate>Sat, 18 Jul 2020 23:32:32 +0900</pubDate>
+      
+      <guid>http://dance-ai-project.github.io/projects/member1/</guid>
+      <description>Abstract???</description>
+    </item>
     
   </channel>
 </rss>
