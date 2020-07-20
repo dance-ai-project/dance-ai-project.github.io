@@ -11,30 +11,45 @@
     
     
     <item>
-      <title>Name</title>
-      <link>http://dance-ai-project.github.io/projects/member3/</link>
+      <title>Naoyuki Hirasawa</title>
+      <link>http://dance-ai-project.github.io/projects/n_hirasawa/</link>
+      <pubDate>Sat, 18 Jul 2020 23:32:32 +0900</pubDate>
+      
+      <guid>http://dance-ai-project.github.io/projects/n_hirasawa/</guid>
+      <description>Naoyuki Hirasawa / FollowTheDarkside bboy / dancer / programmer / videographer. BIG FOOT CREW / RawLab / Assortment of sense
+Twitter( https://twitter.com/eatora22 )
+YouTube( https://www.youtube.com/channel/UCGMG8qnBOlCwpJ_7PI3aVrw )
+GitHub( https://github.com/FollowTheDarkside )</description>
+    </item>
+    
+    <item>
+      <title>Daichi Shimizu</title>
+      <link>http://dance-ai-project.github.io/projects/d_shimizu/</link>
+      <pubDate>Sat, 18 Jul 2020 23:32:38 +0900</pubDate>
+      
+      <guid>http://dance-ai-project.github.io/projects/d_shimizu/</guid>
+      <description>Abstract???</description>
+    </item>
+    
+    <item>
+      <title>Junya Kobayashi</title>
+      <link>http://dance-ai-project.github.io/projects/j_kobayashi/</link>
       <pubDate>Sun, 19 Jul 2020 12:35:20 +0900</pubDate>
       
-      <guid>http://dance-ai-project.github.io/projects/member3/</guid>
+      <guid>http://dance-ai-project.github.io/projects/j_kobayashi/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Name</title>
-      <link>http://dance-ai-project.github.io/projects/member2/</link>
-      <pubDate>Sat, 18 Jul 2020 23:32:38 +0900</pubDate>
+      <title>Almina</title>
+      <link>http://dance-ai-project.github.io/projects/almina/</link>
+      <pubDate>Mon, 20 Jul 2020 23:38:43 +0900</pubDate>
       
-      <guid>http://dance-ai-project.github.io/projects/member2/</guid>
-      <description>Abstract???</description>
-    </item>
-    
-    <item>
-      <title>Name</title>
-      <link>http://dance-ai-project.github.io/projects/member1/</link>
-      <pubDate>Sat, 18 Jul 2020 23:32:32 +0900</pubDate>
-      
-      <guid>http://dance-ai-project.github.io/projects/member1/</guid>
-      <description>Abstract???</description>
+      <guid>http://dance-ai-project.github.io/projects/almina/</guid>
+      <description>Hello! I&amp;rsquo;m nobody, BBoy and creative coder.
+Tools : openFrameworks, glsl, p5.js, Processing, and more&amp;hellip;
+Relation sites
+ Twitter : https://twitter.com/Code4_11 Instagram : https://www.instagram.com/almina2170 NEORT : https://neort.io/ws6kBdX2ARULOx3gQeILGjwWtjy2 OpenProcessing : https://www.openprocessing.org/user/206311 GitHub : https://github.com/almina-orange note : https://note.com/almina Website : https://atelier01.studio.design/  Contact : alm.0554.mina@gmail.com</description>
     </item>
     
   </channel>
